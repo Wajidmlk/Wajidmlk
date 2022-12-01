@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="./style.css" />
+
 - 👋 Hi, I’m @Wajidmlk
 - 👀 I’m interested in JavaScript, Typescript and MERN Stack
 - 🌱 I’m currently learning Freelancing
