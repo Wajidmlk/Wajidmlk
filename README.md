@@ -71,7 +71,7 @@
 ### 📞 **Confidential - Telecommunication Solution (12/2021 - 03/2022)**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✾ Played a vital role in shaping a robust telecommunication solution, contributing to its success within a tight timeline.
 <br/><br/>
-## My Professional Experience
+## 🌐 My Professional Experience
 
 ### 🇬🇧 AIME: Innovation Without Limits
 - **Full Stack Developer | May 2023 - Present | 8 mos**
