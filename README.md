@@ -1,7 +1,9 @@
+Certainly! Here's your whole document with enhanced formatting and fancy bullet points:
 
-# 👋 Hi There!
+```markdown
+## 👋 Hi There!
 
-Experienced Senior Full Stack Developer | TypeScript | Node.js | React | Golang
+### Experienced Senior Full Stack Developer | TypeScript | Node.js | React | Golang
 
 ---
 
@@ -47,8 +49,8 @@ Experienced Senior Full Stack Developer | TypeScript | Node.js | React | Golang
 - 💬 **Interested in:** TypeScript, JavaScript
 
 **📫 Get in touch:**
-- **Email:** [wajidmlk123@gmail.com](mailto:wajidmlk123@gmail.com)
-- **WhatsApp:** [923022244303](https://wa.me/923022244303)
+- 📧 **Email:** [wajidmlk123@gmail.com](mailto:wajidmlk123@gmail.com)
+- 📱 **WhatsApp:** [923022244303](https://wa.me/923022244303)
 
 **Connect with Me:**
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wajidmlk123)
@@ -74,3 +76,6 @@ Experienced Senior Full Stack Developer | TypeScript | Node.js | React | Golang
 - Played a vital role in shaping a robust telecommunication solution, contributing to its success within a tight timeline.
 
 ---
+```
+
+Feel free to use this version, and let me know if you have any further adjustments!
