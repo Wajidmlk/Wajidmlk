@@ -38,52 +38,52 @@
 
 ---
 
-## My Experience:
+## 🔧 My Experience:
 
-- 🚀 **Tech Alchemist:** Transforming ideas into revenue-generating realities is my forte, with a track record of delivering projects that have surpassed the $100k mark.
+♛ 🚀 **Tech Alchemist:** Transforming ideas into revenue-generating realities is my forte, with a track record of delivering projects that have surpassed the $100k mark.
 
-- 💡 **Innovation Enthusiast:** Thriving on the cutting edge, I master TypeScript, microservices, MERN stack, and AWS integrations, ensuring your project stands out in the digital landscape.
+♛ 💡 **Innovation Enthusiast:** Thriving on the cutting edge, I master TypeScript, microservices, MERN stack, and AWS integrations, ensuring your project stands out in the digital landscape.
 
-- 💼 **Strategic Developer:** Beyond writing code, I craft business-centric solutions. Every line of code is a step toward achieving overarching business goals.
+♛ 💼 **Strategic Developer:** Beyond writing code, I craft business-centric solutions. Every line of code is a step toward achieving overarching business goals.
 
-- 🌍 **Global Navigator:** Seamlessly adapting to diverse environments, I've successfully collaborated on international projects, bringing a global perspective to every endeavor.
+♛ 🌍 **Global Navigator:** Seamlessly adapting to diverse environments, I've successfully collaborated on international projects, bringing a global perspective to every endeavor.
 
-- 🔧 **Challenge Maestro:** Armed with a problem-solving knack, I excel at finding innovative solutions to complex issues, ensuring your project stays ahead in an ever-evolving tech landscape.
+♛ 🔧 **Challenge Maestro:** Armed with a problem-solving knack, I excel at finding innovative solutions to complex issues, ensuring your project stays ahead in an ever-evolving tech landscape.
 
 ---
 
 ## 🚀 Key Achievements:
 
 ### 🌐 **Confidential - Think Create Use Automated System (07/2023 - Present)**
-- Led the development, architected microservices, and seamlessly integrated AWS gateway solutions.
+♛ Led the development, architected microservices, and seamlessly integrated AWS gateway solutions.
 
 ### ♻️ **Confidential - Recycling Bottles Distributed System (06/2023 - 10/2023)**
-- Contributed significantly to the development of 23 microservices at AIME, enhancing overall functionality.
+♛ Contributed significantly to the development of 23 microservices at AIME, enhancing overall functionality.
 
 ### 📱 **Confidential - Marketing & Social Media Web App (05/2023 - 08/2023)**
-- Spearheaded the development of a cutting-edge web and mobile application, showcasing prowess in both domains.
+♛ Spearheaded the development of a cutting-edge web and mobile application, showcasing prowess in both domains.
 
 ### 🏡 **First Key Homes Full Stack Web & Mobile Website (06/2021 - 12/2021)**
-- Successfully delivered an online housing website for a prestigious US client, generating substantial revenue.
+♛ Successfully delivered an online housing website for a prestigious US client, generating substantial revenue.
 
 ### 📞 **Confidential - Telecommunication Solution (12/2021 - 03/2022)**
-- Played a vital role in shaping a robust telecommunication solution, contributing to its success within a tight timeline.
+♛ Played a vital role in shaping a robust telecommunication solution, contributing to its success within a tight timeline.
 
 ---
 
 ## 📬 How to Reach Me:
 
-- 👋 Hi, I’m [@Wajidmlk](https://github.com/Wajidmlk)
-- 🔭 Working as a Software Engineer | Web Developer
-- 💞️ I’m looking to collaborate on Freelancing
-- 💬 **Interested in:** TypeScript, JavaScript
+✾ 👋 Hi, I’m [@Wajidmlk](https://github.com/Wajidmlk)
+✾ 🔭 Working as a Software Engineer | Web Developer
+✾ 💞️ I’m looking to collaborate on Freelancing
+✾ 💬 **Interested in:** TypeScript, JavaScript
 
-**📫 Get in touch:**
-- 📧 **Email:** [wajidmlk123@gmail.com](mailto:wajidmlk123@gmail.com)
-- 📱 **WhatsApp:** [923022244303](https://wa.me/923022244303)
+** 📫 Get in touch:**
+❥ 📧 **Email:** [wajidmlk123@gmail.com](mailto:wajidmlk123@gmail.com)
+❥ 📱 **WhatsApp:** [923022244303](https://wa.me/923022244303)
 
-**Connect with Me:**
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wajidmlk123)
-- [![Upwork](https://img.shields.io/badge/Upwork-%23077B5.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/meetdeveloperwajid)
+** 📱 Connect with Me:**
+❥ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wajidmlk123)
+❥ [![Upwork](https://img.shields.io/badge/Upwork-%23077B5.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/meetdeveloperwajid)
 
 ---
