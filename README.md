@@ -4,20 +4,6 @@
 
 ---
 
-## My Experience:
-
-- 🚀 **Tech Alchemist:** Transforming ideas into revenue-generating realities is my forte, with a track record of delivering projects that have surpassed the $100k mark.
-
-- 💡 **Innovation Enthusiast:** Thriving on the cutting edge, I master TypeScript, microservices, MERN stack, and AWS integrations, ensuring your project stands out in the digital landscape.
-
-- 💼 **Strategic Developer:** Beyond writing code, I craft business-centric solutions. Every line of code is a step toward achieving overarching business goals.
-
-- 🌍 **Global Navigator:** Seamlessly adapting to diverse environments, I've successfully collaborated on international projects, bringing a global perspective to every endeavor.
-
-- 🔧 **Challenge Maestro:** Armed with a problem-solving knack, I excel at finding innovative solutions to complex issues, ensuring your project stays ahead in an ever-evolving tech landscape.
-
----
-
 ## 🚀 Skills Showcase:
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
@@ -52,20 +38,17 @@
 
 ---
 
-## 📬 How to Reach Me:
+## My Experience:
 
-- 👋 Hi, I’m [@Wajidmlk](https://github.com/Wajidmlk)
-- 🔭 Working as a Software Engineer | Web Developer
-- 💞️ I’m looking to collaborate on Freelancing
-- 💬 **Interested in:** TypeScript, JavaScript
+- 🚀 **Tech Alchemist:** Transforming ideas into revenue-generating realities is my forte, with a track record of delivering projects that have surpassed the $100k mark.
 
-**📫 Get in touch:**
-- 📧 **Email:** [wajidmlk123@gmail.com](mailto:wajidmlk123@gmail.com)
-- 📱 **WhatsApp:** [923022244303](https://wa.me/923022244303)
+- 💡 **Innovation Enthusiast:** Thriving on the cutting edge, I master TypeScript, microservices, MERN stack, and AWS integrations, ensuring your project stands out in the digital landscape.
 
-**Connect with Me:**
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wajidmlk123)
-- [![Upwork](https://img.shields.io/badge/Upwork-%23077B5.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/meetdeveloperwajid)
+- 💼 **Strategic Developer:** Beyond writing code, I craft business-centric solutions. Every line of code is a step toward achieving overarching business goals.
+
+- 🌍 **Global Navigator:** Seamlessly adapting to diverse environments, I've successfully collaborated on international projects, bringing a global perspective to every endeavor.
+
+- 🔧 **Challenge Maestro:** Armed with a problem-solving knack, I excel at finding innovative solutions to complex issues, ensuring your project stays ahead in an ever-evolving tech landscape.
 
 ---
 
@@ -85,5 +68,22 @@
 
 ### 📞 **Confidential - Telecommunication Solution (12/2021 - 03/2022)**
 - Played a vital role in shaping a robust telecommunication solution, contributing to its success within a tight timeline.
+
+---
+
+## 📬 How to Reach Me:
+
+- 👋 Hi, I’m [@Wajidmlk](https://github.com/Wajidmlk)
+- 🔭 Working as a Software Engineer | Web Developer
+- 💞️ I’m looking to collaborate on Freelancing
+- 💬 **Interested in:** TypeScript, JavaScript
+
+**📫 Get in touch:**
+- 📧 **Email:** [wajidmlk123@gmail.com](mailto:wajidmlk123@gmail.com)
+- 📱 **WhatsApp:** [923022244303](https://wa.me/923022244303)
+
+**Connect with Me:**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wajidmlk123)
+- [![Upwork](https://img.shields.io/badge/Upwork-%23077B5.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/meetdeveloperwajid)
 
 ---
