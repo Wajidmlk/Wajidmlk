@@ -71,19 +71,19 @@
 
 ## 🚀 Key Achievements:
 
-### **Think Create Use Automated System (07/2023 - Present)**
+### 🌐 **Think Create Use Automated System (07/2023 - Present)**
 - Led the development, architected microservices, and seamlessly integrated AWS gateway solutions.
 
-### **Trovr - Recycling Bottles Distributed System (06/2023 - 10/2023)**
+### ♻️ **Trovr - Recycling Bottles Distributed System (06/2023 - 10/2023)**
 - Contributed significantly to the development of 23 microservices at AIME, enhancing overall functionality.
 
-### **My-Peers - Marketing & Social Media Web App (05/2023 - 08/2023)**
+### 📱 **My-Peers - Marketing & Social Media Web App (05/2023 - 08/2023)**
 - Spearheaded the development of a cutting-edge web and mobile application, showcasing prowess in both domains.
 
-### **First Key Homes Full Stack Web & Mobile Website (06/2021 - 12/2021)**
+### 🏡 **First Key Homes Full Stack Web & Mobile Website (06/2021 - 12/2021)**
 - Successfully delivered an online housing website for a prestigious US client, generating substantial revenue.
 
-### **Katshing - Telecommunication Solution (12/2021 - 03/2022)**
+### 📞 **Katshing - Telecommunication Solution (12/2021 - 03/2022)**
 - Played a vital role in shaping a robust telecommunication solution, contributing to its success within a tight timeline.
 
 ---
