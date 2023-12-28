@@ -5,7 +5,7 @@ Experienced Senior Full Stack Developer | TypeScript | Node.js | React | Golang
 
 ---
 
-## Why Choose Me:
+## My Experience:
 
 - 🚀 **Tech Alchemist:** Transforming ideas into revenue-generating realities is my forte, with a track record of delivering projects that have surpassed the $100k mark.
 
@@ -45,9 +45,14 @@ Experienced Senior Full Stack Developer | TypeScript | Node.js | React | Golang
 - 🔭 Working as a Software Engineer | Web Developer
 - 💞️ I’m looking to collaborate on Freelancing
 - 💬 **Interested in:** TypeScript, JavaScript
-- 📫 **Email/WhatsApp:** [wajidmlk123@gmail.com](mailto:wajidmlk123@gmail.com) | [923022244303](https://wa.me/923022244303)
 
-[Connect with me on LinkedIn](https://linkedin.com/in/wajidmlk123) | [Explore my GitHub repositories](https://github.com/Wajidmlk)
+**📫 Get in touch:**
+- **Email:** [wajidmlk123@gmail.com](mailto:wajidmlk123@gmail.com)
+- **WhatsApp:** [923022244303](https://wa.me/923022244303)
+
+**Connect with Me:**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wajidmlk123)
+- [![Upwork](https://img.shields.io/badge/Upwork-%23077B5.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/meetdeveloperwajid)
 
 ---
 
@@ -69,5 +74,3 @@ Experienced Senior Full Stack Developer | TypeScript | Node.js | React | Golang
 - Played a vital role in shaping a robust telecommunication solution, contributing to its success within a tight timeline.
 
 ---
-
-Let's connect and create something extraordinary together! [Connect with me on LinkedIn](#) | [Explore my GitHub repositories](#)
