@@ -1,4 +1,7 @@
+<br/>
+
 ## Senior Full Stack Developer | TypeScript | Node.js | React | Golang
+<br/>
 
 ## 🚀 Skills Showcase
 
@@ -31,14 +34,14 @@
 [![Scripting](https://img.shields.io/badge/Scripting-%23000000.svg?style=for-the-badge)](#)
 [![Web Sockets](https://img.shields.io/badge/Web%20Sockets-%23404D59.svg?style=for-the-badge)](#)
 [![Tests](https://img.shields.io/badge/Tests-%232496ED.svg?style=for-the-badge)](#)
-
+<br/>
 ## 📫 Get in touch
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wajidmlk123@gmail.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923022244303)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wajidmlk123)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Upwork](https://img.shields.io/badge/Upwork-%23077B5.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/meetdeveloperwajid)
-
+<br/><br/>
 ## 🔧 My Expertise
 
 &nbsp;&nbsp;&nbsp; 🚀 **Tech Alchemist:** Transforming ideas into revenue-generating realities is my forte, with a track record of delivering projects that have surpassed the $100k mark.
@@ -50,7 +53,7 @@
 &nbsp;&nbsp;&nbsp; 🌍 **Global Navigator:** Seamlessly adapting to diverse environments, I've successfully collaborated on international projects, bringing a global perspective to every endeavor.
 
 &nbsp;&nbsp;&nbsp; 🔧 **Challenge Maestro:** Armed with a problem-solving knack, I excel at finding innovative solutions to complex issues, ensuring your project stays ahead in an ever-evolving tech landscape.
-
+<br/><br/>
 ## 🚀 Key Achievements
 
 ### 🌐 **Confidential - Think Create Use Automated System (07/2023 - Present)**
@@ -67,3 +70,29 @@
 
 ### 📞 **Confidential - Telecommunication Solution (12/2021 - 03/2022)**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✾ Played a vital role in shaping a robust telecommunication solution, contributing to its success within a tight timeline.
+<br/><br/>
+## My Professional Experience
+
+### 🇬🇧 AIME: Innovation Without Limits
+- **Full Stack Developer | May 2023 - Present | 8 mos**
+  - Location: London, England, United Kingdom (Remote)
+  - Skills: SASS, React Native, Hasura, Go (Programming Language), Microservices, gRPC, TypeScript, React.js, Node.js, GitHub, PostgreSQL, ESLint, MongoDB
+
+### 🇹🇷 CQ Technologies
+- **Full Stack Developer | Mar 2022 - Apr 2023 | 1 yr 2 mos**
+  - Location: Istanbul, Turkey
+  - Skills: TypeScript, React.js, Node.js, Test Driven Development, PostgreSQL, Permissions, Socket.io, Knex.js, ESLint, MongoDB
+
+### 🇵🇰 RIKSOF
+- **Full Stack Developer | Apr 2021 - Mar 2022 | 1 yr**
+  - Location: Karāchi, Sindh, Pakistan
+  - Skills: TypeScript, React.js, Node.js, PostgreSQL, Knex.js, ESLint, MongoDB, Wireframing
+
+### 🇵🇰 Consol Engineering Private Limited
+- **Associate Software Engineer | Oct 2020 - Apr 2021 | 7 mos**
+  - Location: Karāchi, Sindh, Pakistan
+  - Skills: TypeScript, React.js, Node.js, scss
+
+- **Trainee Software Engineer | Mar 2020 - Sep 2020 | 7 mos**
+  - Location: Karāchi, Sindh, Pakistan
+  - Skills: JavaScript, Node.js, PostgreSQL
