@@ -73,12 +73,9 @@
 
 ## 📫 Get in touch:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📧 **Email:** [wajidmlk123@gmail.com](mailto:wajidmlk123@gmail.com)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📱 **WhatsApp:** [923022244303](https://wa.me/923022244303)
-
-## 📱 Connect with Me:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wajidmlk123)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wajidmlk123@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923022244303)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wajidmlk123)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Upwork](https://img.shields.io/badge/Upwork-%23077B5.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/meetdeveloperwajid)
 
 ---
