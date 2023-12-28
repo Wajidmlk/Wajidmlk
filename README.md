@@ -1,6 +1,6 @@
 <br/>
 
-## Senior Full Stack Developer | TypeScript | Node.js | React | Golang
+## 🚀 Senior Full Stack Developer | TypeScript | Node.js | React | Golang 🚀
 <br/>
 
 ## 🚀 Skills Showcase
