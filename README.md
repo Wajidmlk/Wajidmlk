@@ -71,13 +71,6 @@
 
 ---
 
-## 📬 How to Reach Me:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m [@Wajidmlk](https://github.com/Wajidmlk)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 Working as a Software Engineer | Web Developer<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💞️ I’m looking to collaborate on Freelancing<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💬 **Interested in:** TypeScript, JavaScript<br />
-
 ## 📫 Get in touch:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📧 **Email:** [wajidmlk123@gmail.com](mailto:wajidmlk123@gmail.com)<br />
