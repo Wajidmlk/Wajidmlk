@@ -1,10 +1,6 @@
-## 👋 Hi There!
+## Senior Full Stack Developer | TypeScript | Node.js | React | Golang
 
-### Experienced Senior Full Stack Developer | TypeScript | Node.js | React | Golang
-
----
-
-## 🚀 Skills Showcase:
+## 🚀 Skills Showcase
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](#)
@@ -36,9 +32,14 @@
 [![Web Sockets](https://img.shields.io/badge/Web%20Sockets-%23404D59.svg?style=for-the-badge)](#)
 [![Tests](https://img.shields.io/badge/Tests-%232496ED.svg?style=for-the-badge)](#)
 
----
+## 📫 Get in touch
 
-## 🔧 My Experience:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wajidmlk123@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923022244303)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wajidmlk123)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Upwork](https://img.shields.io/badge/Upwork-%23077B5.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/meetdeveloperwajid)
+
+## 🔧 My Expertise
 
 &nbsp;&nbsp;&nbsp; 🚀 **Tech Alchemist:** Transforming ideas into revenue-generating realities is my forte, with a track record of delivering projects that have surpassed the $100k mark.
 
@@ -50,9 +51,7 @@
 
 &nbsp;&nbsp;&nbsp; 🔧 **Challenge Maestro:** Armed with a problem-solving knack, I excel at finding innovative solutions to complex issues, ensuring your project stays ahead in an ever-evolving tech landscape.
 
----
-
-## 🚀 Key Achievements:
+## 🚀 Key Achievements
 
 ### 🌐 **Confidential - Think Create Use Automated System (07/2023 - Present)**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✾ Led the development, architected microservices, and seamlessly integrated AWS gateway solutions.
@@ -68,14 +67,3 @@
 
 ### 📞 **Confidential - Telecommunication Solution (12/2021 - 03/2022)**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✾ Played a vital role in shaping a robust telecommunication solution, contributing to its success within a tight timeline.
-
----
-
-## 📫 Get in touch:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wajidmlk123@gmail.com)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923022244303)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wajidmlk123)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Upwork](https://img.shields.io/badge/Upwork-%23077B5.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/meetdeveloperwajid)
-
----
