@@ -35,6 +35,20 @@
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![REST API](https://img.shields.io/badge/REST%20API-%23003D8F.svg?style=for-the-badge)](#)
 [![Socket.io](https://img.shields.io/badge/Socket.io-%230B264A.svg?style=for-the-badge&logo=socket.io&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
+[![TDD](https://img.shields.io/badge/TDD-%239A4EAE.svg?style=for-the-badge)](#)
+[![Hasura](https://img.shields.io/badge/Hasura-%231C2025.svg?style=for-the-badge&logo=hasura&logoColor=white)](#)
+[![JWT](https://img.shields.io/badge/JWT-%233752A1.svg?style=for-the-badge)](#)
+[![Miro](https://img.shields.io/badge/Miro-%23000000.svg?style=for-the-badge&logo=miro&logoColor=white)](#)
+[![gRPC](https://img.shields.io/badge/gRPC-%23000000.svg?style=for-the-badge&logo=grpc&logoColor=white)](#)
+[![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)](#)
+[![Linting](https://img.shields.io/badge/Linting-%23414141.svg?style=for-the-badge)](#)
+[![Permissions](https://img.shields.io/badge/Permissions-%23000000.svg?style=for-the-badge)](#)
+[![SOLID](https://img.shields.io/badge/SOLID-%23339933.svg?style=for-the-badge)](#)
+[![Scripting](https://img.shields.io/badge/Scripting-%23000000.svg?style=for-the-badge)](#)
+[![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](#)
+[![Web Sockets](https://img.shields.io/badge/Web%20Sockets-%23404D59.svg?style=for-the-badge)](#)
+[![Tests](https://img.shields.io/badge/Tests-%232496ED.svg?style=for-the-badge)](#)
 
 ---
 
