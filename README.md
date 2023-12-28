@@ -1,6 +1,3 @@
-Certainly! Here's your whole document with enhanced formatting and fancy bullet points:
-
-```markdown
 ## 👋 Hi There!
 
 ### Experienced Senior Full Stack Developer | TypeScript | Node.js | React | Golang
@@ -76,6 +73,3 @@ Certainly! Here's your whole document with enhanced formatting and fancy bullet 
 - Played a vital role in shaping a robust telecommunication solution, contributing to its success within a tight timeline.
 
 ---
-```
-
-Feel free to use this version, and let me know if you have any further adjustments!
