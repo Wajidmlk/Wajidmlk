@@ -73,13 +73,13 @@
 ## 🌐 My Professional Experience
 
 ### 🇬🇧 AIME: Innovation Without Limits
-- **Full Stack Developer | May 2023 - Present | 8 mos**
+- **Technical Lead Developer | May 2023 - Present | 8 mos**
   - Location: London, England, United Kingdom (Remote)
   - Skills: SASS, React Native, Hasura, Go (Programming Language), Microservices, gRPC, TypeScript, React.js, Node.js, GitHub, PostgreSQL, ESLint, MongoDB
 
 ### 🇹🇷 CQ Technologies
 - **Full Stack Developer | Mar 2022 - Apr 2023 | 1 yr 2 mos**
-  - Location: Istanbul, Turkey
+  - Location: Istanbul, Turkey (Remote)
   - Skills: TypeScript, React.js, Node.js, Test Driven Development, PostgreSQL, Permissions, Socket.io, Knex.js, ESLint, MongoDB
 
 ### 🇵🇰 RIKSOF
