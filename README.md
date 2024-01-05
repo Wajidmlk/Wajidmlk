@@ -73,7 +73,7 @@
 ## 🌐 My Professional Experience
 
 ### 🇬🇧 AIME: Innovation Without Limits
-- **Technical Lead Developer | May 2023 - Present | 8 mos**
+- **Technical Lead Developer | May 2023 - Present | 1 yr**
   - Location: London, England, United Kingdom (Remote)
   - Skills: SASS, React Native, Hasura, Go (Programming Language), Microservices, gRPC, TypeScript, React.js, Node.js, GitHub, PostgreSQL, ESLint, MongoDB
 
