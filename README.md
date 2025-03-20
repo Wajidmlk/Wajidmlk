@@ -1,6 +1,6 @@
 <br/>
 
-## 🚀 Senior Full Stack Developer | TypeScript | Node.js | React | Golang 🚀
+## 🚀 Senior Full Stack Developer | TypeScript | Node.js | React 🚀
 <br/>
 
 ## 🚀 Skills Showcase
@@ -16,7 +16,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![JWT](https://img.shields.io/badge/JWT-%233752A1.svg?style=for-the-badge)](#)
-[![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](#)
+# [![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](#)
 [![gRPC](https://img.shields.io/badge/gRPC-%23000000.svg?style=for-the-badge&logo=grpc&logoColor=white)](#)
 [![Microservices](https://img.shields.io/badge/Microservices-%230088CC.svg?style=for-the-badge)](#)
 [![SOLID](https://img.shields.io/badge/SOLID-%23339933.svg?style=for-the-badge)](#)
