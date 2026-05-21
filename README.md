@@ -1,97 +1,110 @@
-<br/>
+# Wajid Malik
 
-## 🚀 Senior Full Stack Developer | TypeScript | Node.js | React 🚀
-<br/>
+**Senior Full Stack Engineer** · SaaS · Distributed Systems · Cloud · AI Workflows
 
-## 🚀 Skills Showcase
+Senior Full Stack Engineer with 6+ years building scalable SaaS platforms, enterprise systems, and distributed architectures for UK, GCC, and international teams. I work across architecture, backend, frontend, and cloud delivery: microservices, multi-tenant systems, queue-backed jobs, and production AI integrations.
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
-[![TDD](https://img.shields.io/badge/TDD-%239A4EAE.svg?style=for-the-badge)](#)
-[![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](#)
-[![API Integration](https://img.shields.io/badge/API%20Integration-%2300C7B7.svg?style=for-the-badge)](#)
-[![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![JWT](https://img.shields.io/badge/JWT-%233752A1.svg?style=for-the-badge)](#)
-# [![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](#)
-[![gRPC](https://img.shields.io/badge/gRPC-%23000000.svg?style=for-the-badge&logo=grpc&logoColor=white)](#)
-[![Microservices](https://img.shields.io/badge/Microservices-%230088CC.svg?style=for-the-badge)](#)
-[![SOLID](https://img.shields.io/badge/SOLID-%23339933.svg?style=for-the-badge)](#)
-[![REST API](https://img.shields.io/badge/REST%20API-%23003D8F.svg?style=for-the-badge)](#)
-[![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)](#)
-[![Unit Testing](https://img.shields.io/badge/Unit%20Testing-%23404D59.svg?style=for-the-badge)](#)
-[![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
-[![Socket.io](https://img.shields.io/badge/Socket.io-%230B264A.svg?style=for-the-badge&logo=socket.io&logoColor=white)](#)
-[![Hasura](https://img.shields.io/badge/Hasura-%231C2025.svg?style=for-the-badge&logo=hasura&logoColor=white)](#)
-[![Miro](https://img.shields.io/badge/Miro-%23000000.svg?style=for-the-badge&logo=miro&logoColor=white)](#)
-[![Linting](https://img.shields.io/badge/Linting-%23414141.svg?style=for-the-badge)](#)
-[![Permissions](https://img.shields.io/badge/Permissions-%23000000.svg?style=for-the-badge)](#)
-[![Scripting](https://img.shields.io/badge/Scripting-%23000000.svg?style=for-the-badge)](#)
-[![Web Sockets](https://img.shields.io/badge/Web%20Sockets-%23404D59.svg?style=for-the-badge)](#)
-[![Tests](https://img.shields.io/badge/Tests-%232496ED.svg?style=for-the-badge)](#)
-<br/>
-## 📫 Get in touch
+**[Portfolio](https://meetwajid.com)** · **[LinkedIn](https://linkedin.com/in/wajidmlk123)** · **[Email](mailto:wajidmlk123@gmail.com)**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wajidmlk123@gmail.com)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923022244303)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wajidmlk123)
-<br/><br/>
-## 🔧 My Expertise
+Pakistan · Open to remote · UAE/KSA relocation · Full-time & contract
 
-&nbsp;&nbsp;&nbsp; 🚀 **Tech Alchemist:** Transforming ideas into revenue-generating realities is my forte, with a track record of delivering projects that have surpassed the $100k mark.
+---
 
-&nbsp;&nbsp;&nbsp; 💡 **Innovation Enthusiast:** Thriving on the cutting edge, I master TypeScript, microservices, MERN stack, and AWS integrations, ensuring your project stands out in the digital landscape.
+## Highlights
 
-&nbsp;&nbsp;&nbsp; 💼 **Strategic Developer:** Beyond writing code, I craft business-centric solutions. Every line of code is a step toward achieving overarching business goals.
+| | |
+|---|---|
+| **80%** | AWS infrastructure cost reduction via multi-tenant platform redesign |
+| **15+** | Microservices across government and public-sector distributed systems |
+| **Multi-tenant** | B2B training SaaS: shared platform vs per-client infrastructure clones |
+| **AI** | LLM workflows (OpenAI, Claude), app generation, and governed automation pipelines |
 
-&nbsp;&nbsp;&nbsp; 🌍 **Global Navigator:** Seamlessly adapting to diverse environments, I've successfully collaborated on international projects, bringing a global perspective to every endeavor.
+---
 
-&nbsp;&nbsp;&nbsp; 🔧 **Challenge Maestro:** Armed with a problem-solving knack, I excel at finding innovative solutions to complex issues, ensuring your project stays ahead in an ever-evolving tech landscape.
-<br/><br/>
-## 🚀 Key Achievements
+## Stack
 
-### 🌐 **Confidential - Think Create Use Automated System (07/2023 - Present)**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✾ Led the development, architected microservices, and seamlessly integrated AWS gateway solutions.
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
+[![BullMQ](https://img.shields.io/badge/BullMQ-1C2025?style=flat-square)](https://docs.bullmq.io/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
 
-### ♻️ **Confidential - Recycling Bottles Distributed System (06/2023 - 10/2023)**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✾ Contributed significantly to the development of 23 microservices at AIME, enhancing overall functionality.
+**Also:** Express · Prisma · Knex · GraphQL · gRPC · Microservices · RBAC · CI/CD · Playwright · Stripe
 
-### 📱 **Confidential - Marketing & Social Media Web App (05/2023 - 08/2023)**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✾ Spearheaded the development of a cutting-edge web and mobile application, showcasing prowess in both domains.
+---
 
-### 🏡 **First Key Homes Full Stack Web & Mobile Website (06/2021 - 12/2021)**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✾ Successfully delivered an online housing website for a prestigious US client, generating substantial revenue.
+## Selected work
 
-### 📞 **Confidential - Telecommunication Solution (12/2021 - 03/2022)**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✾ Played a vital role in shaping a robust telecommunication solution, contributing to its success within a tight timeline.
-<br/><br/>
-## 🌐 My Professional Experience
+### Multi-tenant B2B training platform
+Consolidated per-client AWS stacks into one tenant-aware platform (courses, employee completions, analytics). Shared PostgreSQL, Redis, BullMQ, and S3. **~80% AWS cost reduction** (~$5,400 → ~$1,000/month).
 
-### 🇬🇧 AIME: Innovation Without Limits
-- **Technical Lead Developer | May 2023 - Present | 2 yr 2 mos**
-  - Location: London, England, United Kingdom (Remote)
-  - Skills: SASS, React Native, Hasura, Go (Programming Language), Microservices, gRPC, TypeScript, React.js, Node.js, GitHub, PostgreSQL, ESLint, MongoDB
+### AI app-builder and automation (platform module)
+Conversational AI for generating app variants, **containerized previews**, iteration, deploy orchestration, and stack/monthly cost visibility. OpenAI and Claude behind middleware and queue-backed workers.
 
-### 🇹🇷 CQ Technologies
-- **Full Stack Developer | Mar 2022 - Apr 2023 | 1 yr 2 mos**
-  - Location: Istanbul, Turkey (Remote)
-  - Skills: TypeScript, React.js, Node.js, Test Driven Development, PostgreSQL, Permissions, Socket.io, Knex.js, ESLint, MongoDB
+### Public-sector recycling platform (15+ microservices)
+Core distributed system: auth, users, ATM, collection, payments, records, tracking/logs, and related domains. NestJS services with Redis/BullMQ for async integration at scale.
 
-### 🇵🇰 RIKSOF
-- **Full Stack Developer | Apr 2021 - Mar 2022 | 1 yr**
-  - Location: Karāchi, Sindh, Pakistan
-  - Skills: TypeScript, React.js, Node.js, PostgreSQL, Knex.js, ESLint, MongoDB, Wireframing
+### AI guest-messaging (hospitality)
+Claude-powered intent analysis, context-aware replies, and confidence-based escalation. BullMQ, PostgreSQL, Redis, and production analytics integration.
 
-### 🇵🇰 Consol Engineering Private Limited
-- **Associate Software Engineer | Oct 2020 - Apr 2021 | 7 mos**
-  - Location: Karāchi, Sindh, Pakistan
-  - Skills: TypeScript, React.js, Node.js, scss
+---
 
-- **Trainee Software Engineer | Mar 2020 - Sep 2020 | 7 mos**
-  - Location: Karāchi, Sindh, Pakistan
-  - Skills: JavaScript, Node.js, PostgreSQL
+## Experience
+
+### Cozyup Solutions · Dubai
+**Senior Full Stack Engineer** · 2024 – Present · Remote/hybrid
+
+- Shipped AI guest-messaging with Claude: intent analysis, context-aware replies, confidence-based escalation.
+- Integrated LLM workflows with BullMQ, PostgreSQL, and Redis in production hospitality systems.
+- Led end-to-end delivery with distributed teams across Dubai and Europe (architecture, deploys, reliability).
+
+### AIME Global · London
+**Senior Full Stack Engineer** · 2023 – 2024 · Remote
+
+- Led backend engineering across **15+ microservices** for government and public-sector platforms.
+- Architected shared services for notifications, background processing, auth, and integrations.
+- Re-architected single-tenant into **multi-tenant** platform (~**80%** AWS cost reduction).
+- Code reviews and mentoring for engineering quality and maintainability.
+
+### CQ Technologies · Istanbul
+**Senior Full Stack Engineer** · 2022 – 2024 · Remote
+
+- Enterprise features: 2FA, RBAC, document tracking, cron jobs, real-time notifications.
+- Scalable workflows and secure enterprise-grade architecture.
+
+### Riksof · Karachi
+**Full Stack Developer** · 2021 – 2022
+
+- Full-stack apps and MVPs with React, Node.js, MongoDB, and PostgreSQL.
+- CI/CD, code reviews, and reliability improvements.
+
+### Consol Pvt Ltd · Karachi
+**Associate Software Engineer** · 2019 – 2021
+
+- Large-scale applications with modular, maintainable code.
+- Documentation and version-control practices.
+
+---
+
+## Education & certifications
+
+- B.S. Software Engineering, Isra University (Pakistan)
+- Advanced Node.js (Udemy)
+- MERN Stack Development (Udemy)
+- Information Systems Management (Aptech)
+
+---
+
+## Contact
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-meetwajid.com-6366F1?style=flat-square)](https://meetwajid.com)
+[![Email](https://img.shields.io/badge/Email-wajidmlk123@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wajidmlk123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-wajidmlk123-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wajidmlk123)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+92%20302%202244303-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923022244303)
